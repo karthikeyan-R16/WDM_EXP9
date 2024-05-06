@@ -34,3 +34,6 @@ for this purpose.
 ![image](https://github.com/karthikeyan-R16/WDM_EXP9/assets/119421232/7eef494e-47e6-479a-83c3-e00d55a2ce7f)
 
 ### Result:
+Thus, the implemention of preprocessing technique on Twitter Data using Rapidminer is executed successfully.
+
+
