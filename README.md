@@ -27,4 +27,10 @@ for this purpose.
 
 ### Output:
 
+![image](https://github.com/karthikeyan-R16/WDM_EXP9/assets/119421232/165c3fa2-f845-476b-b0dd-8e3a13f8e0bd)
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP9/assets/119421232/d1963bf8-8345-46e5-b3e8-1ae9fbe7b0d0)
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP9/assets/119421232/7eef494e-47e6-479a-83c3-e00d55a2ce7f)
+
 ### Result:
